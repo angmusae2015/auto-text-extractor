@@ -2,3 +2,4 @@
 dataset/original[[:space:]]sheets/
 dataset/images/*/originals/
 venv/
+.api_key.txt
