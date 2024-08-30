@@ -1,5 +1,5 @@
 .idea/
-dataset/original[[:space:]]sheets/
+dataset/original_sheets/
 dataset/images/*/originals/
 .ignoreddata/
 venv/
