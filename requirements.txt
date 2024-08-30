@@ -1,3 +1,5 @@
 notebook
 pillow
 openai
+opencv-python
+matplotlib
