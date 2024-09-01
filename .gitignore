@@ -1,6 +1,5 @@
 .idea/
-dataset/original_sheets/
-dataset/images/*/originals/
+dataset/
 .ignoreddata/
 venv/
 .api_key.txt
